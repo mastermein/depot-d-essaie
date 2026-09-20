@@ -3,7 +3,7 @@
 
 int main()
 {
-    std::cout<<"Bonjour";
+    std::cout<<"Bonjour, clone B";
 
     return 0;
 }
