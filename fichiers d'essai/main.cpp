@@ -19,7 +19,7 @@ void afficherStatistiques() {
 // FIN DU FICHIER : ZONE DE MODIFICATION B
 // ==========================================
 void afficherPiedDePage() {
-    std::cout << "=== Fin du programme === , clone B" << std::endl;
+    std::cout << "=== Fin du programme === , clone B,  branche de rebase" << std::endl;
 }
 
 int main() {
