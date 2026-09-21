@@ -4,7 +4,7 @@
 // DEBUT DU FICHIER : ZONE DE MODIFICATION A
 // ==========================================
 void afficherEntete() {
-    std::cout << "=== Application C++ Demonstration Git ===,  clone A " << std::endl;
+    std::cout << "=== Application C++ Demonstration Git ===,  clone A , branche merge" << std::endl;
 }
 
 void traiterDonnees() {
